@@ -1,0 +1,28 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: rgb(103, 196, 202);
+    color:#101616;
+    margin: 20px;
+  }
+
+  .span{
+    font-size: 4em;
+    background-color: rgb(62, 82, 136);
+    border: 3px solid;
+    width: 50vw;
+    
+  }
+  #principal{
+    font-size: 6em;
+    color:rgb(227, 228, 230);
+    border: 3px solid;
+    width: 35vw;
+margin: auto;    
+  }
+  
+  .logoprincipal{
+    width: 1800px;
+    height: 1300px;
+  }
+
+  
